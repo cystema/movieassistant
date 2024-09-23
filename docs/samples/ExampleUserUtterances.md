@@ -1,6 +1,7 @@
-Example User Utterances 
+TODO: Example User Utterances 
 
 Below are categorized example utterances that users might interact with when engaging with the Movie Assistant chatbot. These examples demonstrate the range of queries the bot can handle, showcasing its versatility and user-centric design.
+
 1. Genre-Based Queries
 
     Action Movies:
