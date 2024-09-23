@@ -1,0 +1,1957 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "what ",
+      "auto": true
+    }, {
+      "text": "2020",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie is popular on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies these days seem to be popular on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what ",
+      "auto": true
+    }, {
+      "text": "actions",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies seem to be popular these days on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what ",
+      "auto": true
+    }, {
+      "text": "scifi",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies are popular on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies are people talking about on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular ",
+      "auto": true
+    }, {
+      "text": "scifi",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2025",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "2020",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " scifi trending on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "2020s",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " trending on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "2000s",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " trending on ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2000",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " trending on ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2020",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " trending right nonw ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies from ",
+      "auto": true
+    }, {
+      "text": "2020",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " trending right now on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2020",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show trending ",
+      "auto": true
+    }, {
+      "text": "scifi",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2000",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show trending ",
+      "auto": true
+    }, {
+      "text": "scifi",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular ",
+      "auto": true
+    }, {
+      "text": "scifi",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular ",
+      "auto": true
+    }, {
+      "text": "scifi",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what ",
+      "auto": true
+    }, {
+      "text": "sci fi",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies are trending on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what scary movies are trending on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies are trending on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show what ",
+      "auto": true
+    }, {
+      "text": "love",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " stories are popular right now on ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show what ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies are popular right now on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular ",
+      "auto": true
+    }, {
+      "text": "epics",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular ",
+      "auto": true
+    }, {
+      "text": "scary",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2000",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular ",
+      "auto": true
+    }, {
+      "text": "scary",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2000",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2020",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular "
+    }, {
+      "text": "scary",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on "
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from "
+    }, {
+      "text": "2000",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular ",
+      "auto": true
+    }, {
+      "text": "scary",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies from ",
+      "auto": true
+    }, {
+      "text": "2020",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular ",
+      "auto": true
+    }, {
+      "text": "romance",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2000",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2000",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2000",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2020",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending movies on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2020",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending movies on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2021",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2020",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular ",
+      "auto": true
+    }, {
+      "text": "love",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " stories on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2023",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular ",
+      "auto": true
+    }, {
+      "text": "love",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " stories on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2002",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular ",
+      "auto": true
+    }, {
+      "text": "love",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " stories on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular ",
+      "auto": true
+    }, {
+      "text": "romance",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular ",
+      "auto": true
+    }, {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular ",
+      "auto": true
+    }, {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular ",
+      "auto": true
+    }, {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " trending on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "adventurous",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies trending on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " trending on ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "musicals",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " trending on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "musicals",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " trending on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies trending on ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "scary",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies trending on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "scary",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies streaming on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " streaming on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " streaming on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " streaming on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some "
+    }, {
+      "text": "musicals",
+      "parameterId": "genre"
+    }, {
+      "text": " streaming on "
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some "
+    }, {
+      "text": "scary",
+      "parameterId": "genre"
+    }, {
+      "text": " movies trending on "
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "drama",
+      "parameterId": "genre"
+    }, {
+      "text": " movies trending on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some "
+    }, {
+      "text": "horror",
+      "parameterId": "genre"
+    }, {
+      "text": " movies trending on "
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending on ",
+      "auto": true
+    }, {
+      "text": "disney+",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending on ",
+      "auto": true
+    }, {
+      "text": "disney plus",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending on ",
+      "auto": true
+    }, {
+      "text": "disney",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending on "
+    }, {
+      "text": "amazon prime",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending on ",
+      "auto": true
+    }, {
+      "text": "amazon",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular on ",
+      "auto": true
+    }, {
+      "text": "disney",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular on "
+    }, {
+      "text": "amazon prime",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular on ",
+      "auto": true
+    }, {
+      "text": "amazon",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular movies on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular movies on ",
+      "auto": true
+    }, {
+      "text": "apple tv plus",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular movies on "
+    }, {
+      "text": "amazon prime",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular movies on ",
+      "auto": true
+    }, {
+      "text": "amazon",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me whats popular right now on ",
+      "auto": true
+    }, {
+      "text": "disney",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me whats popular right now on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me whats popular right now on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me whats popular right now on "
+    }, {
+      "text": "amazon prime",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me whats popular right now on ",
+      "auto": true
+    }, {
+      "text": "amazon",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me whats popular right now on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now on ",
+      "auto": true
+    }, {
+      "text": "amazon",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now on "
+    }, {
+      "text": "amazon prime",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now on ",
+      "auto": true
+    }, {
+      "text": "hbo max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now on ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now on ",
+      "auto": true
+    }, {
+      "text": "apple tv",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats ",
+      "auto": true
+    }, {
+      "text": "trending"
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "disney",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats ",
+      "auto": true
+    }, {
+      "text": "trending"
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what movies are people talking about recently on ",
+      "auto": true
+    }, {
+      "text": "disney",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what movies are people talking about recently on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what movies are people talking about recently on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me what the people are watching on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 3,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me what the people are watching on ",
+      "auto": true
+    }, {
+      "text": "disney",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 3,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me what the people are watching on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 4,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me what the people are watching on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 4,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me what the people are watching on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 3,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what seems to be popular these days on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what seems to be popular these days on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what seems to be popular these days on "
+    }, {
+      "text": "netflix",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what seems to be popular these days on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular movies on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats popular on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats popular on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats popular on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me what the people are watching on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What's everyone watching on ",
+      "auto": true
+    }, {
+      "text": "disney",
+      "parameterId": "provider"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "these"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "days"
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show"
+    }, {
+      "text": " me what people are watching on ",
+      "auto": true
+    }, {
+      "text": "disney",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What's popular on "
+    }, {
+      "text": "max",
+      "parameterId": "provider"
+    }, {
+      "text": " today"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What's trending in movies on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you ",
+      "auto": true
+    }, {
+      "text": "show"
+    }, {
+      "text": " me what's ",
+      "auto": true
+    }, {
+      "text": "hot"
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you show me what's trending on "
+    }, {
+      "text": "HBO Max",
+      "parameterId": "provider"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What's everyone watching on ",
+      "auto": true
+    }, {
+      "text": "Disney+",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What are the top movies on "
+    }, {
+      "text": "Amazon Prime",
+      "parameterId": "provider"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What are people watching on ",
+      "auto": true
+    }, {
+      "text": "Netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are people watching on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show movies on "
+    }, {
+      "text": "hulu",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me what people are watching on "
+    }, {
+      "text": "apple",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what's trending on "
+    }, {
+      "text": "hulu",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what's trending on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

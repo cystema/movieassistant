@@ -1,0 +1,2373 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "what ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies from ",
+      "auto": true
+    }, {
+      "text": "2024",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " are on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies are on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what ",
+      "auto": true
+    }, {
+      "text": "scifi",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies are on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2024",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies from ",
+      "auto": true
+    }, {
+      "text": "2024",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me ",
+      "auto": true
+    }, {
+      "text": "2022",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show ",
+      "auto": true
+    }, {
+      "text": "2024",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "2024",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "2024",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2024",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2024",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2022",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show ",
+      "auto": true
+    }, {
+      "text": "2022",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "2024",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "scary",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "2021",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "2022",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show ",
+      "auto": true
+    }, {
+      "text": "2000",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show ",
+      "auto": true
+    }, {
+      "text": "2024",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "2021",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "amazon",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "2023",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "2022",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "2024",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "scary",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "2022",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "im in the mood for a ",
+      "auto": true
+    }, {
+      "text": "comedy",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "im in the mood for a ",
+      "auto": true
+    }, {
+      "text": "thriller",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "im in the mood for an ",
+      "auto": true
+    }, {
+      "text": "animated",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "im in the mood for an ",
+      "auto": true
+    }, {
+      "text": "animated",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "im in the mood for a ",
+      "auto": true
+    }, {
+      "text": "scary",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "im in the mood for an ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "im in the mood for a good ",
+      "auto": true
+    }, {
+      "text": "thriller",
+      "parameterId": "genre",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "scary",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "find me some ",
+      "auto": true
+    }, {
+      "text": "cartoon",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "apple tv",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "find me some ",
+      "auto": true
+    }, {
+      "text": "animated",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "find me some ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "find me some ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me a good ",
+      "auto": true
+    }, {
+      "text": "western",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2005",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me a good ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "find a movie from ",
+      "auto": true
+    }, {
+      "text": "2003",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "find a ",
+      "auto": true
+    }, {
+      "text": "thriller",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "find a good movie on ",
+      "auto": true
+    }, {
+      "text": "amazon",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2000",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "find me ",
+      "auto": true
+    }, {
+      "text": "a nice"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "war",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2002",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "find me a good ",
+      "auto": true
+    }, {
+      "text": "thriller",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "find me ",
+      "auto": true
+    }, {
+      "text": "a nice"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "historical",
+      "parameterId": "genre"
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "find me a "
+    }, {
+      "text": "comedy",
+      "parameterId": "genre"
+    }, {
+      "text": " movie on "
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "find me a ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "hbo max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find"
+    }, {
+      "text": " something to stream on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show"
+    }, {
+      "text": " me what to watch on ",
+      "auto": true
+    }, {
+      "text": "hbo",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you suggest something on ",
+      "auto": true
+    }, {
+      "text": "apple tv",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What should I watch on ",
+      "auto": true
+    }, {
+      "text": "prime",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Recommend a movie on ",
+      "auto": true
+    }, {
+      "text": "max",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find"
+    }, {
+      "text": " something interesting on ",
+      "auto": true
+    }, {
+      "text": "apple",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to watch something on ",
+      "auto": true
+    }, {
+      "text": "Netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show"
+    }, {
+      "text": " me a movie on ",
+      "auto": true
+    }, {
+      "text": "Amazon Prime",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find"
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "good"
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm looking for something to watch on ",
+      "auto": true
+    }, {
+      "text": "Disney+",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Recommend a film on ",
+      "auto": true
+    }, {
+      "text": "HBO Max",
+      "parameterId": "provider"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you suggest a ",
+      "auto": true
+    }, {
+      "text": "show"
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "Apple TV+",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find"
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "western",
+      "parameterId": "genre"
+    }, {
+      "text": " movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Suggest a ",
+      "auto": true
+    }, {
+      "text": "historical",
+      "parameterId": "genre"
+    }, {
+      "text": " movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'd like to see a "
+    }, {
+      "text": "biographical",
+      "parameterId": "genre"
+    }, {
+      "text": " movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show"
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "war",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find a "
+    }, {
+      "text": "crime",
+      "parameterId": "genre"
+    }, {
+      "text": " movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Recommend an ",
+      "auto": true
+    }, {
+      "text": "adventure",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm in the ",
+      "auto": true
+    }, {
+      "text": "mood"
+    }, {
+      "text": " for a ",
+      "auto": true
+    }, {
+      "text": "musical",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you ",
+      "auto": true
+    }, {
+      "text": "find"
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "documentary",
+      "parameterId": "genre",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show me a "
+    }, {
+      "text": "family",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find"
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "mystery",
+      "parameterId": "genre"
+    }, {
+      "text": " movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to watch a ",
+      "auto": true
+    }, {
+      "text": "fantasy",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Give me an ",
+      "auto": true
+    }, {
+      "text": "animated",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'd like to watch a ",
+      "auto": true
+    }, {
+      "text": "sci-fi",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Suggest a ",
+      "auto": true
+    }, {
+      "text": "romance",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you recommend a ",
+      "auto": true
+    }, {
+      "text": "thriller",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find"
+    }, {
+      "text": " an ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm looking for a "
+    }, {
+      "text": "drama",
+      "parameterId": "genre"
+    }, {
+      "text": " movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show"
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to watch a "
+    }, {
+      "text": "comedy",
+      "parameterId": "genre"
+    }, {
+      "text": " movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find"
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "western",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "HBO Max"
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Suggest a ",
+      "auto": true
+    }, {
+      "text": "historical",
+      "parameterId": "genre"
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Disney+",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'd like to see a "
+    }, {
+      "text": "biographical",
+      "parameterId": "genre"
+    }, {
+      "text": " movie on "
+    }, {
+      "text": "Hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show",
+      "parameterId": "movie1",
+      "auto": true
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "war",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Amazon Prime"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find",
+      "parameterId": "movie1",
+      "auto": true
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "crime",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "HBO Max"
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Recommend an ",
+      "auto": true
+    }, {
+      "text": "adventure",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm in the ",
+      "auto": true
+    }, {
+      "text": "mood",
+      "parameterId": "movie1",
+      "auto": true
+    }, {
+      "text": " for a ",
+      "auto": true
+    }, {
+      "text": "musical",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Disney+",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you ",
+      "auto": true
+    }, {
+      "text": "find",
+      "parameterId": "movie1",
+      "auto": true
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "documentary",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "Hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show",
+      "parameterId": "movie1",
+      "auto": true
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "family",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Amazon Prime"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find",
+      "parameterId": "movie1",
+      "auto": true
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "mystery",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "HBO Max"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to watch a ",
+      "auto": true
+    }, {
+      "text": "fantasy",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Give me an ",
+      "auto": true
+    }, {
+      "text": "animated",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Disney+",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'd like to watch a ",
+      "auto": true
+    }, {
+      "text": "sci-fi",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Hulu",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Suggest a ",
+      "auto": true
+    }, {
+      "text": "romance",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Amazon Prime"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you recommend a ",
+      "auto": true
+    }, {
+      "text": "thriller",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "HBO Max",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find"
+    }, {
+      "text": " an ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Netflix",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm looking for a "
+    }, {
+      "text": "drama",
+      "parameterId": "genre"
+    }, {
+      "text": " movie on "
+    }, {
+      "text": "Disney+",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show"
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Hulu",
+      "parameterId": "provider",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to watch a "
+    }, {
+      "text": "comedy",
+      "parameterId": "genre"
+    }, {
+      "text": " movie on "
+    }, {
+      "text": "Amazon Prime"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find"
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "western",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "HBO Max",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2011",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Suggest a ",
+      "auto": true
+    }, {
+      "text": "historical",
+      "parameterId": "genre"
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Disney+",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2013",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'd like to see a "
+    }, {
+      "text": "biographical",
+      "parameterId": "genre"
+    }, {
+      "text": " movie on "
+    }, {
+      "text": "Hulu",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from "
+    }, {
+      "text": "1997",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show"
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "war",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Amazon"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "Prime",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2001",
+      "parameterId": "movie1",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find"
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "crime",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "HBO Max",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2014",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Recommend an ",
+      "auto": true
+    }, {
+      "text": "adventure",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Netflix",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2007",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm in the ",
+      "auto": true
+    }, {
+      "text": "mood"
+    }, {
+      "text": " for a ",
+      "auto": true
+    }, {
+      "text": "musical",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Disney+",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "1998",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you ",
+      "auto": true
+    }, {
+      "text": "find"
+    }, {
+      "text": " a ",
+      "auto": true
+    }, {
+      "text": "documentary",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " on ",
+      "auto": true
+    }, {
+      "text": "Hulu",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2015",
+      "parameterId": "date-time",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show"
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "family",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Amazon Prime"
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2021",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find"
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "mystery",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "HBO Max",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2003",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to watch a ",
+      "auto": true
+    }, {
+      "text": "fantasy",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Netflix",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2019",
+      "parameterId": "phone-number",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Give me an ",
+      "auto": true
+    }, {
+      "text": "animated",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Disney+",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2008",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'd like to watch a ",
+      "auto": true
+    }, {
+      "text": "sci-fi",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Hulu",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2016",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Suggest a "
+    }, {
+      "text": "romance",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on "
+    }, {
+      "text": "Amazon Prime",
+      "parameterId": "provider"
+    }, {
+      "text": " from "
+    }, {
+      "text": "2012",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you recommend a ",
+      "auto": true
+    }, {
+      "text": "thriller",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "HBO Max",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "1995",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find an "
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on "
+    }, {
+      "text": "Netflix",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from "
+    }, {
+      "text": "2020",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm looking for a "
+    }, {
+      "text": "drama",
+      "parameterId": "genre"
+    }, {
+      "text": " movie on "
+    }, {
+      "text": "Disney+",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from "
+    }, {
+      "text": "2005",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show"
+    }, {
+      "text": " me a ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "Hulu",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2018",
+      "parameterId": "date-time",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to watch a comedy movie on "
+    }, {
+      "text": "Amazon Prime",
+      "parameterId": "provider"
+    }, {
+      "text": " from "
+    }, {
+      "text": "2010",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "i ",
+      "auto": true
+    }, {
+      "text": "want"
+    }, {
+      "text": " to watch an ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movie on ",
+      "auto": true
+    }, {
+      "text": "netflix",
+      "parameterId": "provider",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2002",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

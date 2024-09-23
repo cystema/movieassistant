@@ -1,0 +1,10 @@
+{
+  "name": "30f05ee2-c754-4320-b41f-415b79045e93",
+  "displayName": "GetTrendingWithoutService",
+  "genericWebService": {
+    "uri": ""
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}

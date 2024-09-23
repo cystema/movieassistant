@@ -1,0 +1,106 @@
+{
+  "name": "04f108a4-f742-4b80-8a5b-61ff0c16129a",
+  "displayName": "GetHelpPage",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "🎬 Ready to discover your next movie?" ]
+      },
+      "languageCode": "en"
+    }, {
+      "text": {
+        "text": [ "I’m here to help you with all your movie queries. " ]
+      },
+      "languageCode": "en"
+    }, {
+      "text": {
+        "text": [ "Try asking me something like:\n    • \"What’s trending on Netflix?\"\n    • \"Show me what’s popular on HBO Max.\"\n    • \"Find action movies on Apple TV.\"" ]
+      },
+      "languageCode": "en"
+    }, {
+      "text": {
+        "text": [ "Can't decide? You can also say:\n    • \"I can't choose.\"\n    • \"You pick for me.\"\n    • \"Help me decide.\"" ]
+      },
+      "languageCode": "en"
+    }, {
+      "text": {
+        "text": [ "Alternatively, if you need assistance, simply type \"Help\" or let me know if something went wrong." ]
+      },
+      "languageCode": "en"
+    }, {
+      "text": {
+        "text": [ "Currently, I can assist with movies on Netflix, HBO Max, Apple TV, Disney+, and Hulu. Feel free to explore your favorite genres and streaming services! 🎬🍿" ]
+      },
+      "languageCode": "en"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "GetTrendingOnService",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingOnService",
+    "name": "4a41c0ae-d744-461f-aba3-3b6fb8bef6e2",
+    "description": "Get Trending"
+  }, {
+    "intent": "DiscoverMovie",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "DiscoverMoviePage",
+    "name": "f267cc1f-4a6a-451d-835b-cbc5fbbfa5ee",
+    "description": "Discover movie"
+  }, {
+    "intent": "GetHelp",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetHelpPage",
+    "name": "731d8750-8ac5-4b27-906f-9c3033a5a879",
+    "description": "Get help"
+  }, {
+    "intent": "GetMovieSynopsis",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSynopsisPage",
+    "name": "aa1ba377-c5d8-4b95-bb29-80bab4a4ef7f",
+    "description": "Get movie synopsis"
+  }, {
+    "intent": "GetSimilarMovies",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSimilarMoviesPage",
+    "name": "80b1dc50-30df-4985-94e7-317cf981df23",
+    "description": "Get similar movies"
+  }, {
+    "intent": "GetTrendingWithoutProvider",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingWithoutProvider",
+    "name": "5b8e6c65-8973-4477-8fc0-5950973c210f"
+  }, {
+    "intent": "GetAIRecommendation",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetAIRecommendationPage",
+    "name": "1c7de91c-c625-463c-960e-8a51d71bccca"
+  }, {
+    "intent": "HandleAcceptance",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "HandleAcceptancePage",
+    "name": "45f41414-47c9-4b19-a05d-cc82f9ffa83d"
+  } ],
+  "description": "Get help "
+}

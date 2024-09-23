@@ -1,0 +1,85 @@
+{
+  "name": "13cb4a54-3e4b-47ea-bc0d-33f7d84487d3",
+  "displayName": "GetTrendingOnService",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Let's see what's trending on $session.params.provider!" ]
+      },
+      "languageCode": "en"
+    } ],
+    "webhook": "GetTrendingOnService",
+    "tag": "GetTrending",
+    "returnPartialResponses": true,
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "GetTrendingOnService",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingOnService",
+    "name": "869c661f-1fbc-4b58-91cf-4c4c86fd50d2",
+    "description": "Get Trending Again"
+  }, {
+    "intent": "GetMovieSynopsis",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSynopsisPage",
+    "name": "c311804e-dae6-4626-9ba9-f349f9161db1",
+    "description": "Get Synopsis of Movie"
+  }, {
+    "intent": "GetSimilarMovies",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSimilarMoviesPage",
+    "name": "f26958b7-5c32-40da-aa45-f664cc1c0717",
+    "description": "Get Similar Movies"
+  }, {
+    "intent": "DiscoverMovie",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "DiscoverMoviePage",
+    "name": "68a75444-3cbb-49b3-aae8-b6ebdb9db527",
+    "description": "Discover movie"
+  }, {
+    "intent": "GetHelp",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetHelpPage",
+    "name": "45d33970-2cd5-4ad6-880c-8807cdecd72a",
+    "description": "Get help"
+  }, {
+    "intent": "HandleAcceptance",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "HandleAcceptancePage",
+    "name": "b13f8fee-fabe-4dbf-a632-62b00274f54f",
+    "description": "Handle user acceptance"
+  }, {
+    "intent": "GetTrendingWithoutProvider",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingWithoutProvider",
+    "name": "8c7d58e9-2d8f-4139-a483-d5c7cfd456f2"
+  }, {
+    "intent": "GetAIRecommendation",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetAIRecommendationPage",
+    "name": "be90bc17-9a89-4f55-b3ae-022a79a1e816"
+  } ],
+  "description": "Get Trending Movies On A Streaming Service"
+}

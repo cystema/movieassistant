@@ -1,0 +1,11 @@
+{
+  "name": "253fa0ad-4bbd-4da1-b2d6-fac232d607a4",
+  "displayName": "GetUserName",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "description": "Get name of current user",
+  "numTrainingPhrases": 7
+}

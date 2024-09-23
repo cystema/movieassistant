@@ -1,0 +1,16 @@
+{
+  "name": "2e12c083-18db-4944-8793-8526c9f0ec14",
+  "displayName": "GetAIRecommendation",
+  "parameters": [ {
+    "id": "movie",
+    "entityType": "@movie"
+  }, {
+    "id": "number",
+    "entityType": "@sys.number"
+  }, {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 70
+}

@@ -1,0 +1,72 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Steve",
+      "parameterId": "person"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "here"
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm "
+    }, {
+      "text": "Sam",
+      "parameterId": "person"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I am "
+    }, {
+      "text": "Sam",
+      "parameterId": "person"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I am "
+    }, {
+      "text": "Shubham",
+      "parameterId": "person"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "This is "
+    }, {
+      "text": "Mike",
+      "parameterId": "person"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I am "
+    }, {
+      "text": "Sarah",
+      "parameterId": "person"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "My name is "
+    }, {
+      "text": "John",
+      "parameterId": "person"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

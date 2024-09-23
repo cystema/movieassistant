@@ -1,0 +1,102 @@
+{
+  "name": "46a09c5e-6500-4030-9dd0-4cada9375d71",
+  "displayName": "GetSimilarMoviesPage",
+  "form": {
+    "parameters": [ {
+      "displayName": "movie",
+      "required": true,
+      "entityType": "@movie",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+        
+        }
+      },
+      "description": "Movie name that we need something similar to."
+    }, {
+      "displayName": "provider",
+      "entityType": "@provider",
+      "fillBehavior": {
+        "initialPromptFulfillment": {
+        
+        }
+      },
+      "description": "Streaming service provider."
+    } ]
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Got it! Here are some movies similar to $sys.func.UPPER($session.params.movie).\n", "On it!", "Coming right up!" ]
+      },
+      "languageCode": "en"
+    } ],
+    "webhook": "GetSimilarMoviesWebhook",
+    "tag": "similar-movies",
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "GetMovieSynopsis",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSynopsisPage",
+    "name": "63da4227-3081-4542-bc61-6c9ab46ee26c",
+    "description": "Get Synopsis"
+  }, {
+    "intent": "GetTrendingOnService",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingOnService",
+    "name": "1083650f-2f49-41af-95a9-2077edc5e550",
+    "description": "Get Trending"
+  }, {
+    "intent": "DiscoverMovie",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "DiscoverMoviePage",
+    "name": "dd98fa23-b3b7-485f-865c-26f659db557a",
+    "description": "Discover movie"
+  }, {
+    "intent": "GetSimilarMovies",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSimilarMoviesPage",
+    "name": "ff4e1100-c48b-496f-87f7-0e87e91d45b6",
+    "description": "GetSimilarMovies"
+  }, {
+    "intent": "GetHelp",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetHelpPage",
+    "name": "eca03a5f-4705-4fdf-9982-0a6d9a271836",
+    "description": "Get help"
+  }, {
+    "intent": "HandleAcceptance",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "HandleAcceptancePage",
+    "name": "1a7dc857-c0c9-4274-9084-4a8b877ba64e",
+    "description": "Handle Acceptance"
+  }, {
+    "intent": "GetTrendingWithoutProvider",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingWithoutProvider",
+    "name": "2318b16c-adcb-47bc-aa5a-91d712fe9659"
+  }, {
+    "intent": "GetAIRecommendation",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetAIRecommendationPage",
+    "name": "2e4a33a2-eb56-463b-8104-684e055d709c"
+  } ]
+}

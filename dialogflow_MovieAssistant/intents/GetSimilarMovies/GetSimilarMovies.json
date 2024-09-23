@@ -1,0 +1,11 @@
+{
+  "name": "e37979c7-0899-4341-b895-8095d03ded3d",
+  "displayName": "GetSimilarMovies",
+  "parameters": [ {
+    "id": "movie",
+    "entityType": "@movie"
+  } ],
+  "priority": 500000,
+  "description": "Gets movies like other movies",
+  "numTrainingPhrases": 27
+}

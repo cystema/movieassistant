@@ -1,0 +1,341 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Give me films similar to ",
+      "auto": true
+    }, {
+      "text": "Goodfellas",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Which movies would you recommend that are like ",
+      "auto": true
+    }, {
+      "text": "Back to the Future",
+      "parameterId": "movie"
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Recommend me movies in the ",
+      "auto": true
+    }, {
+      "text": "same"
+    }, {
+      "text": " style as ",
+      "auto": true
+    }, {
+      "text": "The Lion King",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Suggest me a movie similar to ",
+      "auto": true
+    }, {
+      "text": "Black Panther",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Help me ",
+      "auto": true
+    }, {
+      "text": "find"
+    }, {
+      "text": " a movie like ",
+      "auto": true
+    }, {
+      "text": "The Avengers",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What are some movies similar to ",
+      "auto": true
+    }, {
+      "text": "Saving Private Ryan",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Any movies like ",
+      "auto": true
+    }, {
+      "text": "The Terminator",
+      "parameterId": "movie"
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show"
+    }, {
+      "text": " me movies that are like ",
+      "auto": true
+    }, {
+      "text": "Mad Max",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm in the ",
+      "auto": true
+    }, {
+      "text": "mood"
+    }, {
+      "text": " for something similar to ",
+      "auto": true
+    }, {
+      "text": "The Departed",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you ",
+      "auto": true
+    }, {
+      "text": "find"
+    }, {
+      "text": " movies like ",
+      "auto": true
+    }, {
+      "text": "The Silence of the Lambs",
+      "parameterId": "movie"
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Give me some movie recommendations similar to ",
+      "auto": true
+    }, {
+      "text": "Harry Potter",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to watch something like ",
+      "auto": true
+    }, {
+      "text": "Star Wars",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Which movies are like ",
+      "auto": true
+    }, {
+      "text": "The Lord of the Rings",
+      "parameterId": "movie"
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find"
+    }, {
+      "text": " films that are similar to ",
+      "auto": true
+    }, {
+      "text": "Jurassic Park",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Recommend movies like ",
+      "auto": true
+    }, {
+      "text": "Gladiator",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What films are similar to "
+    }, {
+      "text": "The Shawshank Redemption",
+      "parameterId": "movie"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you help me ",
+      "auto": true
+    }, {
+      "text": "find"
+    }, {
+      "text": " movies similar to ",
+      "auto": true
+    }, {
+      "text": "Fight Club",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I'm looking for movies like "
+    }, {
+      "text": "Pulp Fiction",
+      "parameterId": "movie"
+    }, {
+      "text": "."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Suggest some movies that are similar to ",
+      "auto": true
+    }, {
+      "text": "The Godfather",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What movies are like ",
+      "auto": true
+    }, {
+      "text": "Interstellar",
+      "parameterId": "movie"
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Give me a ",
+      "auto": true
+    }, {
+      "text": "list"
+    }, {
+      "text": " of movies similar to ",
+      "auto": true
+    }, {
+      "text": "Forrest Gump",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Find"
+    }, {
+      "text": " movies similar to ",
+      "auto": true
+    }, {
+      "text": "The Dark Knight",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you recommend movies that are like ",
+      "auto": true
+    }, {
+      "text": "Avengers: Endgame",
+      "parameterId": "movie"
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show me films similar to "
+    }, {
+      "text": "Titanic",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to ",
+      "auto": true
+    }, {
+      "text": "find"
+    }, {
+      "text": " movies like ",
+      "auto": true
+    }, {
+      "text": "Inception",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some movies like "
+    }, {
+      "text": "the matrix",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me movies like "
+    }, {
+      "text": "The Godfather",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

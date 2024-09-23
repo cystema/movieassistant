@@ -1,0 +1,20 @@
+{
+  "name": "b7db3707-270b-4462-944a-1477c37b3cce",
+  "displayName": "GetMovieSynopsis",
+  "parameters": [ {
+    "id": "movie",
+    "entityType": "@movie"
+  }, {
+    "id": "date-period",
+    "entityType": "@sys.date-period"
+  }, {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  }, {
+    "id": "color",
+    "entityType": "@sys.color"
+  } ],
+  "priority": 500000,
+  "description": "Get Synopsis of Movie",
+  "numTrainingPhrases": 43
+}

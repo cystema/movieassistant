@@ -1,0 +1,10 @@
+{
+  "name": "f624ea25-b07d-4f8e-b34a-1c6f2e8936bd",
+  "displayName": "GetSimilarMoviesWebhook",
+  "genericWebService": {
+    "uri": ""
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}

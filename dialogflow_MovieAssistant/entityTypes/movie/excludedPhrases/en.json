@@ -1,0 +1,21 @@
+{
+  "excludedPhrases": [ {
+    "value": "this",
+    "languageCode": "en"
+  }, {
+    "value": "show",
+    "languageCode": "en"
+  }, {
+    "value": "find",
+    "languageCode": "en"
+  }, {
+    "value": "know",
+    "languageCode": "en"
+  }, {
+    "value": "plot of",
+    "languageCode": "en"
+  }, {
+    "value": "in the ",
+    "languageCode": "en"
+  } ]
+}

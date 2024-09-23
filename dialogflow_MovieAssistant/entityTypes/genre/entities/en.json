@@ -1,0 +1,75 @@
+{
+  "entities": [ {
+    "value": "action",
+    "synonyms": [ "action", "fighting", "wall to wall" ],
+    "languageCode": "en"
+  }, {
+    "value": "adventure",
+    "synonyms": [ "adventorous", "adventure", "adventures" ],
+    "languageCode": "en"
+  }, {
+    "value": "animation",
+    "synonyms": [ "animated", "animation", "animations", "cartoon", "cartoons" ],
+    "languageCode": "en"
+  }, {
+    "value": "crime",
+    "synonyms": [ "caper", "crime", "crime drama", "criminal", "delinquent", "racket", "scandal", "villain", "villainous", "wicked" ],
+    "languageCode": "en"
+  }, {
+    "value": "documentary",
+    "synonyms": [ "doc", "docs", "docu", "documentaries", "documentary", "docus" ],
+    "languageCode": "en"
+  }, {
+    "value": "drama",
+    "synonyms": [ "drama", "dramas", "melodrama", "melodramatic" ],
+    "languageCode": "en"
+  }, {
+    "value": "family",
+    "synonyms": [ "cartoons", "family", "kids" ],
+    "languageCode": "en"
+  }, {
+    "value": "fantasy",
+    "synonyms": [ "escapist", "fable", "fables", "fairy tale", "fairy tales", "fantasies", "fantasy", "legend", "legendary", "myth", "mythical", "myths", "sorcery" ],
+    "languageCode": "en"
+  }, {
+    "value": "history",
+    "synonyms": [ "biographical", "biographies", "biography", "epic", "historical", "history" ],
+    "languageCode": "en"
+  }, {
+    "value": "horror",
+    "synonyms": [ "anxiety", "anxiety inducing", "dreadul", "fear", "fearful", "horror", "jitters", "nightmare", "nightmarish", "panic", "panic inducing", "scary", "terrifying", "terror", "terrorising" ],
+    "languageCode": "en"
+  }, {
+    "value": "music",
+    "synonyms": [ "melodic", "melodious", "music", "musical", "operatic", "rhythmic", "symphonic", "symphony", "musicals" ],
+    "languageCode": "en"
+  }, {
+    "value": "mystery",
+    "synonyms": [ "detective", "detective mystery", "mysteries", "mystery", "whodunit" ],
+    "languageCode": "en"
+  }, {
+    "value": "romance",
+    "synonyms": [ "affair", "courtship", "date ", "date night", "heartfelt", "heartful", "love", "love stories", "love story", "passion", "relationship", "romance" ],
+    "languageCode": "en"
+  }, {
+    "value": "science fiction",
+    "synonyms": [ "futuristic", "sci fi", "sci-fi", "science fiction", "scifi", "sf", "space", "space fiction", "space opera" ],
+    "languageCode": "en"
+  }, {
+    "value": "thriller",
+    "synonyms": [ "chiller", "chillers", "chilling", "thriller", "thrillers" ],
+    "languageCode": "en"
+  }, {
+    "value": "war",
+    "synonyms": [ "battle", "battles", "bloodshed", "combat", "war", "warfare" ],
+    "languageCode": "en"
+  }, {
+    "value": "western",
+    "synonyms": [ "old west", "outlaw", "western", "westerns" ],
+    "languageCode": "en"
+  }, {
+    "value": "comedy",
+    "synonyms": [ "comedies", "comedy", "comic", "farce", "fun", "funniness", "funny", "hilarious", "hilarity", "humor", "humorous", "satire", "sitcom", "sitcoms", "slapstick", "witty" ],
+    "languageCode": "en"
+  } ]
+}

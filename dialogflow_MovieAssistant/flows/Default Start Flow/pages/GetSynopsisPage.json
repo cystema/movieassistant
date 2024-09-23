@@ -1,0 +1,83 @@
+{
+  "name": "2c273c54-9c07-4cd2-9161-2248e3ae124c",
+  "displayName": "GetSynopsisPage",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Searching...\n" ]
+      },
+      "languageCode": "en"
+    } ],
+    "webhook": "GetMovieSynopsisOfSearchedMovie",
+    "tag": "synopsis",
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "GetSimilarMovies",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSimilarMoviesPage",
+    "name": "9bbf3b3f-1915-4c29-9be3-7561557c6675",
+    "description": "Find Similar Movies"
+  }, {
+    "intent": "GetTrendingOnService",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingOnService",
+    "name": "95790354-fde4-4406-aa94-a37caa014343",
+    "description": "Get Trending"
+  }, {
+    "intent": "GetMovieSynopsis",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSynopsisPage",
+    "name": "71783f22-7929-40a1-bae8-100d2787e3a7",
+    "description": "Get synopsis"
+  }, {
+    "intent": "GetHelp",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetHelpPage",
+    "name": "b42ad007-52a0-442b-b527-d4d0d20abf9e",
+    "description": "GetHelp"
+  }, {
+    "intent": "DiscoverMovie",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "DiscoverMoviePage",
+    "name": "858d4903-095f-4efd-83f2-b59e853ce724",
+    "description": "Discover movie"
+  }, {
+    "intent": "HandleAcceptance",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "HandleAcceptancePage",
+    "name": "cdd2b1a8-7e88-46e0-8ce1-4e3f2c7dd130"
+  }, {
+    "intent": "GetTrendingWithoutProvider",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingWithoutProvider",
+    "name": "81f8d0fc-b586-473a-a00b-0323d3a821aa"
+  }, {
+    "intent": "GetAIRecommendation",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetAIRecommendationPage",
+    "name": "d814d9e5-6c37-4412-9459-c605d9917d7e"
+  } ],
+  "description": "Get Synopsis of Movie"
+}

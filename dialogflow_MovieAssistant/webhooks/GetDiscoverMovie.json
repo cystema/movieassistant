@@ -1,0 +1,10 @@
+{
+  "name": "0220d05a-e647-4623-8cae-e82aab28da47",
+  "displayName": "GetDiscoverMovie",
+  "genericWebService": {
+    "uri": ""
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}

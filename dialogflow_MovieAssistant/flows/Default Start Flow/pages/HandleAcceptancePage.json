@@ -1,0 +1,90 @@
+{
+  "name": "663eddbf-4a1b-47f8-922b-67c7bc718c3d",
+  "displayName": "HandleAcceptancePage",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Awesome!", "Don't hesitate to search for more movies!" ]
+      },
+      "languageCode": "en"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "DiscoverMovie",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "DiscoverMoviePage",
+    "name": "bfa12ecc-64e1-45f6-b99c-83bd72a33e47"
+  }, {
+    "intent": "GetHelp",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetHelpPage",
+    "name": "7fede8a1-6f16-40e9-aa30-2dcbdad22025"
+  }, {
+    "intent": "GetMovieSynopsis",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSynopsisPage",
+    "name": "c815f89e-870f-4dd7-987a-c256f9ffe9b3"
+  }, {
+    "intent": "GetSimilarMovies",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSimilarMoviesPage",
+    "name": "c10f7cf8-0080-469a-a32e-22e5cdc1b7f4"
+  }, {
+    "intent": "GetTrendingOnService",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingOnService",
+    "name": "8fb14172-9ef3-473a-a5c6-4885dc6bd463"
+  }, {
+    "intent": "HandleAcceptance",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "HandleAcceptancePage",
+    "name": "5a0f6fec-edc7-4701-92c8-8c65e5644a82"
+  }, {
+    "intent": "HandleEndFlow",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Glad I could help! Enjoy your movie!" ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "End Session",
+    "name": "255a219f-fcc0-4e1b-a6ee-d01b71282f0d"
+  }, {
+    "intent": "GetTrendingWithoutProvider",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingWithoutProvider",
+    "name": "c34203e0-a1c9-4e35-b37b-d7281d6b4e26"
+  }, {
+    "intent": "GetAIRecommendation",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetAIRecommendationPage",
+    "name": "9d81852e-11fe-475b-aaa1-9dbc746b093a"
+  } ]
+}

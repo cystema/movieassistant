@@ -1,0 +1,13 @@
+{
+  "name": "08a0f388-a46b-4667-bb90-1a85defa38e7",
+  "displayName": "Generate Synopsis",
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "gemini-1.5-flash"
+  }
+}

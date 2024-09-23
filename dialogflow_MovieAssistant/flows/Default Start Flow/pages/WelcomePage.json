@@ -1,0 +1,98 @@
+{
+  "name": "06bb2d87-a5fc-41a3-aa2c-0f8dce9a5ce3",
+  "displayName": "WelcomePage",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "Hi!", "Hello!", "How are you doing?" ]
+      },
+      "languageCode": "en"
+    }, {
+      "text": {
+        "text": [ "Ready to discover your next movie?" ]
+      },
+      "languageCode": "en"
+    }, {
+      "text": {
+        "text": [ "Try asking me something like:\n    • \"What’s trending on Netflix?\"\n    • \"Show me what’s popular on HBO Max.\"\n    • \"Find action movies on Apple TV.\"" ]
+      },
+      "languageCode": "en"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "GetTrendingOnService",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingOnService",
+    "name": "e42e544a-5a27-4143-ac1a-d94aeac45220",
+    "description": "Get Trending Movies"
+  }, {
+    "intent": "GetSimilarMovies",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSimilarMoviesPage",
+    "name": "b5a18765-d978-422f-be0b-fbdd44463ccd",
+    "description": "Get Similar Movies"
+  }, {
+    "intent": "DiscoverMovie",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "DiscoverMoviePage",
+    "name": "e7857406-2d93-45f9-9dc4-84fdb8735776",
+    "description": "Search for Movie"
+  }, {
+    "intent": "GetHelp",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetHelpPage",
+    "name": "fb908e01-78a6-4b2b-9d97-bdd0f94975e3",
+    "description": "Get Help"
+  }, {
+    "intent": "GetMovieSynopsis",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSynopsisPage",
+    "name": "74b4c77f-66c5-4653-b6ae-e69717e59caf",
+    "description": "Get movie synopsis"
+  }, {
+    "intent": "GetTrendingWithoutProvider",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingWithoutProvider",
+    "name": "ccd1f4bb-d0ab-4e18-9276-6d946e3aa42e"
+  }, {
+    "intent": "GetAIRecommendation",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Looks like you haven't searched for any movies! Feel free to look around and come back!" ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "2b1932a0-5803-419a-baf2-8a803e58b070"
+  }, {
+    "intent": "HandleAcceptance",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "HandleAcceptancePage",
+    "name": "012d3a5a-7015-479a-925c-32c56940e9b1"
+  } ],
+  "description": "Welcome page."
+}

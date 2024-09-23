@@ -1,0 +1,10 @@
+{
+  "name": "fd82c2d5-ae32-4411-8136-57a51c776454",
+  "displayName": "GetMovieSynopsisOfSearchedMovie",
+  "genericWebService": {
+    "uri": ""
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}

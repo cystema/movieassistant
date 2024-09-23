@@ -1,0 +1,17 @@
+{
+  "name": "2ba9c691-174a-4e42-b36a-3e152fd94a67",
+  "displayName": "Get AI Recommendation",
+  "placeholders": [ {
+    "id": "session",
+    "name": "session"
+  } ],
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "gemini-1.5-flash"
+  }
+}

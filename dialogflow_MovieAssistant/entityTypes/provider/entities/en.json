@@ -1,0 +1,27 @@
+{
+  "entities": [ {
+    "value": "disney",
+    "synonyms": [ "disney", "disney plus", "disney+" ],
+    "languageCode": "en"
+  }, {
+    "value": "netflix",
+    "synonyms": [ "netflix" ],
+    "languageCode": "en"
+  }, {
+    "value": "hulu",
+    "synonyms": [ "hulu" ],
+    "languageCode": "en"
+  }, {
+    "value": "hbo",
+    "synonyms": [ "hbo", "hbo max", "max" ],
+    "languageCode": "en"
+  }, {
+    "value": "apple",
+    "synonyms": [ "apple", "apple tv", "apple tv plus" ],
+    "languageCode": "en"
+  }, {
+    "value": "prime",
+    "synonyms": [ "amazon", "amazon prime video", "prime", "prime video", "amazon prime" ],
+    "languageCode": "en"
+  } ]
+}

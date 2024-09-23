@@ -1,0 +1,10 @@
+{
+  "name": "59c889f7-a94c-4a67-9252-28f9f0a0bac1",
+  "displayName": "HandleEndFlow",
+  "parameters": [ {
+    "id": "movie",
+    "entityType": "@movie"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 20
+}

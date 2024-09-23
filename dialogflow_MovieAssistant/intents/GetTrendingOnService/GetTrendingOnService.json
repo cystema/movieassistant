@@ -1,0 +1,26 @@
+{
+  "name": "ae44913d-094a-45fd-a4c0-04d04b5afc3a",
+  "displayName": "GetTrendingOnService",
+  "parameters": [ {
+    "id": "provider",
+    "entityType": "@provider"
+  }, {
+    "id": "movie",
+    "entityType": "@movie"
+  }, {
+    "id": "date-period",
+    "entityType": "@sys.date-period"
+  }, {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  }, {
+    "id": "genre",
+    "entityType": "@genre"
+  }, {
+    "id": "phone-number",
+    "entityType": "@sys.phone-number"
+  } ],
+  "priority": 500000,
+  "description": "Get Trending Movies",
+  "numTrainingPhrases": 133
+}

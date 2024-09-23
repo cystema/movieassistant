@@ -1,0 +1,123 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Start Flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "setParameterActions": [ {
+        "parameter": "name",
+        "value": ""
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "WelcomePage",
+    "name": "24a60506-52e2-4b85-83c4-ac887b88cc4a"
+  }, {
+    "intent": "DiscoverMovie",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "DiscoverMoviePage",
+    "name": "4190c3f7-85fd-4bf0-8f5a-b8124451efed"
+  }, {
+    "intent": "GetAIRecommendation",
+    "condition": "$session.params.searchedMovies != {}",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Looks like you haven't searched for any movies! Feel free to search around and get back to me!" ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "4182db13-fbd4-4229-af40-92a6a86992b5"
+  }, {
+    "intent": "GetHelp",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetHelpPage",
+    "name": "cf727226-b5d6-46a2-96e8-72b698239c1c"
+  }, {
+    "intent": "GetMovieSynopsis",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSynopsisPage",
+    "name": "1ecad335-11e2-48d4-8ec8-6dabc9d41656"
+  }, {
+    "intent": "GetSimilarMovies",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSimilarMoviesPage",
+    "name": "a5a5a13b-b958-4d3e-8e20-ab02b88ba714"
+  }, {
+    "intent": "GetTrendingOnService",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingOnService",
+    "name": "fd21c31d-cb3b-4804-bb02-2b2f28bc8907"
+  }, {
+    "intent": "GetTrendingWithoutProvider",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingWithoutProvider",
+    "name": "376d19c4-95a5-43b8-897b-eaafd92ccfe9"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "00ec35cf-f333-4a77-9f5c-47c311e2199d"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "I didn't get that. Can you say it again?", "I missed what you said. What was that?", "Sorry, could you say that again?", "Sorry, can you say that again?", "Can you say that again?", "Sorry, I didn't get that. Can you rephrase?", "Sorry, what was that?", "One more time?", "What was that?", "Say that one more time?", "I didn't get that. Can you repeat?", "I missed that, say that again?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "96ba84c3-76a6-4979-abd6-ed398496c38e"
+  }, {
+    "event": "welcome",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "🎬 Hello! I'm MovieAssistant – your personal guide to discovering the perfect movie! What kind of movie are you in the mood for today?" ]
+        },
+        "languageCode": "en"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "name": "9d60cfd7-a32b-44b9-b51e-c7f1d4650ad2"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001
+  },
+  "nluSettingsList": [ {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001,
+    "customConfigKey": "029cebc6-3e03-426b-8903-e55c3d9379f0",
+    "languageCode": "en"
+  } ]
+}

@@ -1,0 +1,54 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "enableLogging": true,
+  "projectNumber": 130448491695,
+  "speechToTextSettings": {
+  
+  },
+  "startFlow": "Default Start Flow",
+  "enableSpellCorrection": true,
+  "advancedSettings": {
+    "audioExportGcsDestination": {
+    
+    },
+    "speechSettings": {
+      "endpointerSensitivity": 90,
+      "noSpeechTimeout": {
+        "seconds": 5
+      }
+    },
+    "playbackInterruptionSettings": {
+    
+    },
+    "loggingSettings": {
+      "enableInteractionLogging": true
+    }
+  },
+  "speakerIdSettings": {
+  
+  },
+  "textToSpeechSettings": {
+  
+  },
+  "duplexSettings": {
+  
+  },
+  "callCompanionSettings": {
+    "company": "🍿 Movie Assistant"
+  },
+  "answerFeedbackSettings": {
+  
+  },
+  "webClientSettings": {
+    "displayName": "🍿 Movie Assistant",
+    "font": "Google Sans",
+    "textColor": "#000",
+    "backgroundColor": "#f3f6fc",
+    "userInputColor": "#d3e3fd",
+    "agentResponseColor": "#fff",
+    "userInputTextColor": "#000",
+    "agentResponseTextColor": "#000",
+    "boxBorderRadius": "0"
+  }
+}

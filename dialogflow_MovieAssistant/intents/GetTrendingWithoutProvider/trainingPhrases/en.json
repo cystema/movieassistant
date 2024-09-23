@@ -1,0 +1,453 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies from ",
+      "auto": true
+    }, {
+      "text": "2021",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " trending right now",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "2021",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " movies trending right now",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "2020",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " movies trending right now",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "2024",
+      "parameterId": "date-period",
+      "auto": true
+    }, {
+      "text": " movies trending",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular ",
+      "auto": true
+    }, {
+      "text": "drama",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies from ",
+      "auto": true
+    }, {
+      "text": "2010",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies from ",
+      "auto": true
+    }, {
+      "text": "2005",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular "
+    }, {
+      "text": "scifi",
+      "parameterId": "genre"
+    }, {
+      "text": " movies from "
+    }, {
+      "text": "2004",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some trending ",
+      "auto": true
+    }, {
+      "text": "thrillers",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " from ",
+      "auto": true
+    }, {
+      "text": "2021",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some trending ",
+      "auto": true
+    }, {
+      "text": "drama",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies from ",
+      "auto": true
+    }, {
+      "text": "2020",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some trending ",
+      "auto": true
+    }, {
+      "text": "horror",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies from ",
+      "auto": true
+    }, {
+      "text": "2003",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some popular ",
+      "auto": true
+    }, {
+      "text": "sci fi",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies from ",
+      "auto": true
+    }, {
+      "text": "2002",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular ",
+      "auto": true
+    }, {
+      "text": "sci fi",
+      "parameterId": "genre",
+      "auto": true
+    }, {
+      "text": " movies from ",
+      "auto": true
+    }, {
+      "text": "2002",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular "
+    }, {
+      "text": "sci fi",
+      "parameterId": "genre"
+    }, {
+      "text": " movies"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular "
+    }, {
+      "text": "horror",
+      "parameterId": "genre"
+    }, {
+      "text": " movies"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular "
+    }, {
+      "text": "action",
+      "parameterId": "genre"
+    }, {
+      "text": " movies"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "drama",
+      "parameterId": "genre"
+    }, {
+      "text": " movies trending"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "action",
+      "parameterId": "genre"
+    }, {
+      "text": " movies trending"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "drama",
+      "parameterId": "genre"
+    }, {
+      "text": " movies trending right now",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some "
+    }, {
+      "text": "scary",
+      "parameterId": "genre"
+    }, {
+      "text": " movies trending right now"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some "
+    }, {
+      "text": "horror",
+      "parameterId": "genre"
+    }, {
+      "text": " movies trending right now"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are some ",
+      "auto": true
+    }, {
+      "text": "action",
+      "parameterId": "genre"
+    }, {
+      "text": " movies trending right now",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending ",
+      "auto": true
+    }, {
+      "text": "these"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "days"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats popular",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending",
+      "auto": true
+    } ],
+    "repeatCount": 3,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "trending right now",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular right now",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "popular ",
+      "auto": true
+    }, {
+      "text": "these"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "days"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending ",
+      "auto": true
+    }, {
+      "text": "these"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "days"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats trending right now",
+      "auto": true
+    } ],
+    "repeatCount": 2,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show me what people are watching",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what seems to be popular ",
+      "auto": true
+    }, {
+      "text": "these"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "days"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "show popular movies",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What are the trending movies ",
+      "auto": true
+    }, {
+      "text": "these"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "days"
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Show me what's popular right now",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What movies are people talking about lately?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "what are people watching ",
+      "auto": true
+    }, {
+      "text": "these"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "days"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

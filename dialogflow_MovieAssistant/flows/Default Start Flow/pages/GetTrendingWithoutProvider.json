@@ -1,0 +1,77 @@
+{
+  "name": "2dab5eb5-365e-468a-8c68-33276cef2fb8",
+  "displayName": "GetTrendingWithoutProvider",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "webhook": "GetTrendingWithoutService",
+    "tag": "no-provider",
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "GetTrendingOnService",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingOnService",
+    "name": "7d32ad20-2c8e-418b-9d34-2aa850cef9a0",
+    "description": "Get Trending On Service"
+  }, {
+    "intent": "GetMovieSynopsis",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSynopsisPage",
+    "name": "d46498e0-ff03-4252-b1fb-3fe72a84538f",
+    "description": "Get Synopsis of Movie"
+  }, {
+    "intent": "GetSimilarMovies",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSimilarMoviesPage",
+    "name": "b7c27edc-2117-4e96-bb8f-c691287db947",
+    "description": "Get Similar Movies"
+  }, {
+    "intent": "DiscoverMovie",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "DiscoverMoviePage",
+    "name": "248445d9-413f-4d33-b545-7c58da7d1ec4",
+    "description": "Discover movie"
+  }, {
+    "intent": "GetHelp",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetHelpPage",
+    "name": "d6b47d52-8c63-4a10-aae1-084e59633cc0",
+    "description": "Get help"
+  }, {
+    "intent": "HandleAcceptance",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "HandleAcceptancePage",
+    "name": "8b858d83-6407-4e2e-b385-51af8419dbd3",
+    "description": "Handle acceptance"
+  }, {
+    "intent": "GetTrendingWithoutProvider",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingWithoutProvider",
+    "name": "1fa591f5-b0ea-4332-878f-7114c643f1b3"
+  }, {
+    "intent": "GetAIRecommendation",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetAIRecommendationPage",
+    "name": "5048347c-a0ef-4924-93bb-a7f723d6d211"
+  } ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "03511449-5fa9-4d97-8e2f-2440705dea47",
+  "displayName": "HandleAcceptance",
+  "parameters": [ {
+    "id": "movie",
+    "entityType": "@movie"
+  } ],
+  "priority": 500000,
+  "description": "Handle acceptance from user.",
+  "numTrainingPhrases": 24
+}

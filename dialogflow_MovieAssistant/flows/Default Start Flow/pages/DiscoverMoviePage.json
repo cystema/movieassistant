@@ -1,0 +1,78 @@
+{
+  "name": "cb84cdaa-9019-401b-af81-bc136caea4bd",
+  "displayName": "DiscoverMoviePage",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "webhook": "GetDiscoverMovie",
+    "tag": "discover-movie",
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "DiscoverMovie",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "DiscoverMoviePage",
+    "name": "62d7007b-aec3-4322-808f-84a23949b657",
+    "description": "Search for more movies"
+  }, {
+    "intent": "GetMovieSynopsis",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSynopsisPage",
+    "name": "8a4d2abd-b127-418d-8227-58a8dbecc174",
+    "description": "Get Synopsis"
+  }, {
+    "intent": "GetSimilarMovies",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSimilarMoviesPage",
+    "name": "16725dfb-cad2-405b-ad29-9ccdd758b3c7",
+    "description": "Get Similar Movies"
+  }, {
+    "intent": "GetTrendingOnService",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingOnService",
+    "name": "77af1dc2-f789-4f61-a65e-f0b308f0c0d5",
+    "description": "Get Trending"
+  }, {
+    "intent": "GetHelp",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetHelpPage",
+    "name": "15352121-0ec4-4721-b4a4-bdb4b2cc420c",
+    "description": "Get help"
+  }, {
+    "intent": "HandleAcceptance",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "HandleAcceptancePage",
+    "name": "9cb1a46b-f14a-46e8-8eb7-df4a5f0b82a3",
+    "description": "Handle acceptance"
+  }, {
+    "intent": "GetTrendingWithoutProvider",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingWithoutProvider",
+    "name": "ce80c8cd-30ee-4675-b5e2-af10322c718f"
+  }, {
+    "intent": "GetAIRecommendation",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetAIRecommendationPage",
+    "name": "905b5523-8229-4146-a393-2949dd5985dd"
+  } ],
+  "description": "Search for a movie based on genre, or year, or service provider, or any combination of all options."
+}

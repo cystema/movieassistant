@@ -1,0 +1,33 @@
+{
+  "name": "797d80a3-d8ab-40e1-b083-b25ed177a6b1",
+  "displayName": "DiscoverMovie",
+  "parameters": [ {
+    "id": "movie",
+    "entityType": "@movie"
+  }, {
+    "id": "genre",
+    "entityType": "@genre"
+  }, {
+    "id": "provider",
+    "entityType": "@provider"
+  }, {
+    "id": "date-period",
+    "entityType": "@sys.date-period"
+  }, {
+    "id": "date-time",
+    "entityType": "@sys.date-time"
+  }, {
+    "id": "phone-number",
+    "entityType": "@sys.phone-number"
+  }, {
+    "id": "movie1",
+    "entityType": "@movie"
+  } ],
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-contextual",
+    "value": "sys-contextual"
+  } ],
+  "description": "User wants to watch a movie.",
+  "numTrainingPhrases": 124
+}

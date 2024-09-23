@@ -1,0 +1,88 @@
+{
+  "name": "b00ef4ce-3f91-4c3d-b35b-e30241d23fee",
+  "displayName": "GetAIRecommendationPage",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "$request.generative.recommendation\n" ]
+      },
+      "languageCode": "en"
+    }, {
+      "text": {
+        "text": [ "Feel free to look up more options and come back. I'll help you pick the perfect movie based on our chat!", "You can browse for additional movies and return anytime. I'll assist you in choosing one that suits our conversation!", "Feel free to search for additional movies and return whenever you're ready. I'll help you pick a great film based on our talk!", "If you'd like more choices, search for additional movies and get back to me. I'll help you decide on one that matches our conversation!", "You can always find more movies and come back to me. I'll help you choose one based on what we've been talking about!", "Don't hesitate to search for more movies and return when you're ready. I'll help you select the best one based on our chat!", "Feel free to browse for additional films and return here. I'll assist you in selecting a movie that aligns with our conversation.", "Feel free to explore more movie options and come back. I'll help you choose the best one based on our conversation!" ]
+      },
+      "languageCode": "en"
+    } ],
+    "generators": [ {
+      "generator": "projects/movieassistant-436221/locations/us-central1/agents/71df484e-6e15-4587-8d4c-07bd70af50ef/generators/2ba9c691-174a-4e42-b36a-3e152fd94a67",
+      "inputParameters": [ {
+        "key": "session",
+        "value": "$session.params.searchedMovies"
+      } ],
+      "outputParameter": "$request.generative.recommendation"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "DiscoverMovie",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "DiscoverMoviePage",
+    "name": "b1190d1d-faf1-4292-9820-f5a2b7e7f2df"
+  }, {
+    "intent": "GetAIRecommendation",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetAIRecommendationPage",
+    "name": "c1ae3490-a16a-4f80-a0e9-fe9abc228d72"
+  }, {
+    "intent": "GetHelp",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetHelpPage",
+    "name": "7506a79b-1c86-4778-b0b9-f8ed31c78b6d"
+  }, {
+    "intent": "GetMovieSynopsis",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSynopsisPage",
+    "name": "4d0df463-fcee-4d83-882a-398c29eb35de"
+  }, {
+    "intent": "GetSimilarMovies",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetSimilarMoviesPage",
+    "name": "85a9d778-8916-4ce7-8015-40087250f1e8"
+  }, {
+    "intent": "GetTrendingOnService",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingOnService",
+    "name": "917031b6-fa70-468e-8447-b7e984d7ad6a"
+  }, {
+    "intent": "GetTrendingWithoutProvider",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "GetTrendingWithoutProvider",
+    "name": "bdfd660c-7b45-44ee-94f2-164560ab5ab2"
+  }, {
+    "intent": "HandleAcceptance",
+    "triggerFulfillment": {
+    
+    },
+    "targetPage": "HandleAcceptancePage",
+    "name": "16d9094e-5f83-4367-bf54-d93ede2bcef3"
+  } ]
+}

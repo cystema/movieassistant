@@ -1,0 +1,11 @@
+{
+  "name": "17997c17-fa3d-41ca-ba03-0992154aaa10",
+  "displayName": "GetHelp",
+  "parameters": [ {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "description": "Provide instructions to user",
+  "numTrainingPhrases": 41
+}

@@ -1,0 +1,575 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "deadpool and wolverine",
+      "parameterId": "movie"
+    }, {
+      "text": " "
+    }, {
+      "text": "2024",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "black widow",
+      "parameterId": "movie"
+    }, {
+      "text": " "
+    }, {
+      "text": "2018",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "i mean ",
+      "auto": true
+    }, {
+      "text": "avengers",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "2012",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "i mean "
+    }, {
+      "text": "black widow",
+      "parameterId": "movie"
+    }, {
+      "text": " "
+    }, {
+      "text": "2018",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "i meant "
+    }, {
+      "text": "black belt",
+      "parameterId": "movie"
+    }, {
+      "text": " from "
+    }, {
+      "text": "2004",
+      "parameterId": "date-period",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "i meant "
+    }, {
+      "text": "matrix",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "1999",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "i mean "
+    }, {
+      "text": "garfield",
+      "parameterId": "movie"
+    }, {
+      "text": " "
+    }, {
+      "text": "2021",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "rambo",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "1978",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "rebel ridge",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": " "
+    }, {
+      "text": "2024",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "the matrix",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "1999",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "matrix",
+      "parameterId": "movie"
+    }, {
+      "text": " "
+    }, {
+      "text": "1999",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "officer black belt",
+      "parameterId": "movie"
+    }, {
+      "text": " "
+    }, {
+      "text": "2024",
+      "parameterId": "date-period"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "tell me about ",
+      "auto": true
+    }, {
+      "text": "rambo",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats ",
+      "auto": true
+    }, {
+      "text": "rambo",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats ",
+      "auto": true
+    }, {
+      "text": "fight club",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats ",
+      "auto": true
+    }, {
+      "text": "inception",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats "
+    }, {
+      "text": "existenz",
+      "parameterId": "movie"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "details for ",
+      "auto": true
+    }, {
+      "text": "existenz",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "details for ",
+      "auto": true
+    }, {
+      "text": "transformers",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "details for ",
+      "auto": true
+    }, {
+      "text": "inception",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "whats ",
+      "auto": true
+    }, {
+      "text": "fight club",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": " about",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "tell me about ",
+      "auto": true
+    }, {
+      "text": "fight club",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "tell me about ",
+      "auto": true
+    }, {
+      "text": "inception",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "tell me more about ",
+      "auto": true
+    }, {
+      "text": "spongebob",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "tell me more about ",
+      "auto": true
+    }, {
+      "text": "fight club",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "tell me more about ",
+      "auto": true
+    }, {
+      "text": "inception",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "tell me more about ",
+      "auto": true
+    }, {
+      "text": "rebel ridge",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What is "
+    }, {
+      "text": "Rebel Ridge",
+      "parameterId": "movie"
+    }, {
+      "text": " about"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you provide the synopsis for ",
+      "auto": true
+    }, {
+      "text": "Jurassic Park",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to ",
+      "auto": true
+    }, {
+      "text": "know"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "the plot of"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "Interstellar",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Tell me the story of ",
+      "auto": true
+    }, {
+      "text": "Gladiator",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What's the main idea behind ",
+      "auto": true
+    }, {
+      "text": "The Shawshank Redemption",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can I get a brief summary of ",
+      "auto": true
+    }, {
+      "text": "The Lord of the Rings",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Explain ",
+      "auto": true
+    }, {
+      "text": "the plot of"
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "Fight Club",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What ",
+      "auto": true
+    }, {
+      "text": "happens"
+    }, {
+      "text": " in ",
+      "auto": true
+    }, {
+      "text": "Star Wars",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What's ",
+      "auto": true
+    }, {
+      "text": "Forrest Gump",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": " about?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you describe ",
+      "auto": true
+    }, {
+      "text": "Pulp Fiction",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What's the synopsis for "
+    }, {
+      "text": "Avatar",
+      "parameterId": "movie"
+    }, {
+      "text": "?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Tell me more about ",
+      "auto": true
+    }, {
+      "text": "The Dark Knight",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": ".",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Give me a summary of ",
+      "auto": true
+    }, {
+      "text": "Titanic",
+      "parameterId": "movie",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What's the story of ",
+      "auto": true
+    }, {
+      "text": "The Godfather",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "Can you tell me ",
+      "auto": true
+    }, {
+      "text": "the plot of",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": " ",
+      "auto": true
+    }, {
+      "text": "Inception",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": "?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What is ",
+      "auto": true
+    }, {
+      "text": "The Matrix",
+      "parameterId": "movie",
+      "auto": true
+    }, {
+      "text": " about?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

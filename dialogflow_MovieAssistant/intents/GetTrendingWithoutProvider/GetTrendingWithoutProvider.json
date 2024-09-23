@@ -1,0 +1,13 @@
+{
+  "name": "c6c2f06d-e415-46b6-9894-20babadff5ae",
+  "displayName": "GetTrendingWithoutProvider",
+  "parameters": [ {
+    "id": "genre",
+    "entityType": "@genre"
+  }, {
+    "id": "date-period",
+    "entityType": "@sys.date-period"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 38
+}
